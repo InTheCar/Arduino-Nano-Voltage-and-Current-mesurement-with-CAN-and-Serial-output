@@ -5,7 +5,7 @@
 > 
 >>[Arduino Nano datasheet](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Datasheets/Nano_V3_mit_CH340_Datenblatt.pdf).
 
-CAN module
+>CAN module
 
 >>[CAN bus Modul MCP2515](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Datasheets/CAN%20Bus%20Modul%20Datenblatt%20AZ-Delivery%20Vertriebs%20GmbH.pdf).
 >>

@@ -1,6 +1,6 @@
 # Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output
 ## Overview
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Pictures/schematic.png "San Juan Mountains")
 ## Used HW
 ### Datasheets
 >Arduino Nano

@@ -27,4 +27,6 @@
 
 ## The test hardware on a board
 
+## The Code
+[!code-csharp[](Program.cs#region)]
 

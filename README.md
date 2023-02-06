@@ -28,5 +28,5 @@
 ## The test hardware on a board
 
 ## The Code
-[!code-csharp[](Program.cs#region)]
+[!code-csharp[](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/test/_Arduino-Nano-PWM-Generator.ino)]
 

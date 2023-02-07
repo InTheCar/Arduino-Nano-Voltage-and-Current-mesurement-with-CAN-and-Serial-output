@@ -31,7 +31,7 @@
 ![eval board](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Pictures/eval_board_02.jpeg "eval board")
 
 ## Wiring
-![wiring](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Pictures/eval_board_01.jpeg "wiring")
+![wiring](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/fritzing/wiring01_Steckplatine.png "wiring")
 
 ## The Code
     [(https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/test/_Arduino-Nano-PWM-Generator.ino)]

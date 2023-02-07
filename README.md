@@ -26,9 +26,9 @@
 >>[Current ACS712 30A and Voltage DC0-25V sensor](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Datasheets/ACS712%2030A%20Stromsensor%20DC0-25V%20Spannungssensor.pdf).
 
 ## The evaluation board
-![schematic](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Pictures/schematic.png "schematic")
+![eval board](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Pictures/eval_board_01.jpeg "eval board")
 
-![schematic](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Pictures/schematic.png "schematic")
+![eval board](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Pictures/eval_board_02.jpeg "eval board")
 
 ## The Code
     [(https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/test/_Arduino-Nano-PWM-Generator.ino)]

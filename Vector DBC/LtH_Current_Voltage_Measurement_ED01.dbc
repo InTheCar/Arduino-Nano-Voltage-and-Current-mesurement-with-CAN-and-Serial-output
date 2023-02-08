@@ -37,8 +37,8 @@ BU_: LtHCuVo
 
 
 BO_ 1 LtH_Cur_Vol: 4 Vector__XXX
- SG_ Current_mA : 16|16@1- (1,0) [0|30000] "" Vector__XXX
- SG_ Voltage_mV : 0|16@1- (1,0) [0|30000] "" Vector__XXX
+ SG_ Current_mA : 23|16@0+ (1,0) [0|30000] "" Vector__XXX
+ SG_ Voltage_mV : 7|16@0+ (1,0) [0|30000] "" Vector__XXX
 
 
 

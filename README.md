@@ -23,7 +23,13 @@
 
 >Current ACS712 30A and Voltage DC0-25V sensor 
 > 
->>[Current ACS712 30A and Voltage DC0-25V sensor](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Datasheets/ACS712%2030A%20Stromsensor%20DC0-25V%20Spannungssensor.pdf).
+>>[Voltage DC0-25V sensor dont use the data of Current ACS712 30A](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Datasheets/ACS712%2030A%20Stromsensor%20DC0-25V%20Spannungssensor.pdf).
+
+>Current ACS712 5A
+> 
+>>[Data Sheet Current ACS712 5A](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Datasheets/ACS712%20Stromsensor%20mit%205A%20Datenblatt.pdf).
+> >
+>>[PIN OUT Current ACS712 5A](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Datasheets/ACS712%20Stromsensor%20mit%205A%20Pinout.pdf).
 
 ## The evaluation board
 ![eval board](https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/main/Pictures/eval_board_01.jpeg "eval board")

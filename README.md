@@ -51,5 +51,5 @@ https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN
 
 https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/bfed59c16b67fad8384e387b2d53e257e4e18cff/Sketches/Stromsensor_Beispiel/Stromsensor_Beispiel.ino#L1-L5
 
-
+https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/34b0147aaa2533ac2e914e9ceb87a3e696d39094/Sketches/Stromsensor_Beispiel/Stromsensor_Beispiel.ino
 

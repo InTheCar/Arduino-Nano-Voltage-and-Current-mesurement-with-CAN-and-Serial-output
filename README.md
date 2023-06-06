@@ -46,5 +46,7 @@
   <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+
 https://github.com/InTheCar/Arduino-Nano-Voltage-and-Current-mesurement-with-CAN-and-Serial-output/blob/ff43006fd3647ea1b01381aba7c420e5c9b2a4db/Sketches/Stromsensor_Beispiel/Stromsensor_Beispiel.ino#LL1C5-L1C5
+
 

@@ -36,12 +36,22 @@ BS_:
 BU_: LtHCuVo
 
 
-BO_ 1 LtH_Cur_Vol: 4 Vector__XXX
- SG_ Current_mA : 23|16@0+ (1,0) [0|30000] "" Vector__XXX
- SG_ Voltage_mV : 7|16@0+ (1,0) [0|30000] "" Vector__XXX
+BO_ 3221225472 VECTOR__INDEPENDENT_SIG_MSG: 0 Vector__XXX
+ SG_ _06LSB_Voltage_average_10_mV : 0|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ _05MSB_Voltage_average_10_mV : 0|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ _04Voltage_average_10_mV : 0|16@0+ (1,0) [0|30000] "" Vector__XXX
+ SG_ LSB_Current_mA : 0|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ _03LSB_Votage_mV : 0|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ _02MSB_Voltage_mV : 0|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ MSB_Current_mA : 0|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ Current_mA : 0|16@0+ (1,0) [0|30000] "" Vector__XXX
+ SG_ _01Voltage_mV : 0|16@0+ (1,0) [0|30000] "" Vector__XXX
+
+BO_ 1 LtH_Cur_Vol: 12 Vector__XXX
 
 
 
+CM_ BO_ 3221225472 "This is a message for not used signals, created by Vector CANdb++ DBC OLE DB Provider.";
 BA_DEF_  "MultiplexExtEnabled" ENUM  "No","Yes";
 BA_DEF_ BO_  "CANFD_BRS" ENUM  "0","1";
 BA_DEF_  "DBName" STRING ;
